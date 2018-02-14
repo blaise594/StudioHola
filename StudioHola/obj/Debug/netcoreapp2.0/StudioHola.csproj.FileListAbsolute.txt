@@ -1,0 +1,11 @@
+C:\Users\Ed\Documents\lc101\Unit-3\StudioHola\StudioHola\bin\Debug\netcoreapp2.0\StudioHola.deps.json
+C:\Users\Ed\Documents\lc101\Unit-3\StudioHola\StudioHola\bin\Debug\netcoreapp2.0\StudioHola.runtimeconfig.json
+C:\Users\Ed\Documents\lc101\Unit-3\StudioHola\StudioHola\bin\Debug\netcoreapp2.0\StudioHola.runtimeconfig.dev.json
+C:\Users\Ed\Documents\lc101\Unit-3\StudioHola\StudioHola\bin\Debug\netcoreapp2.0\StudioHola.dll
+C:\Users\Ed\Documents\lc101\Unit-3\StudioHola\StudioHola\obj\Debug\netcoreapp2.0\StudioHola.csprojResolveAssemblyReference.cache
+C:\Users\Ed\Documents\lc101\Unit-3\StudioHola\StudioHola\obj\Debug\netcoreapp2.0\StudioHola.csproj.CoreCompileInputs.cache
+C:\Users\Ed\Documents\lc101\Unit-3\StudioHola\StudioHola\obj\Debug\netcoreapp2.0\StudioHola.AssemblyInfoInputs.cache
+C:\Users\Ed\Documents\lc101\Unit-3\StudioHola\StudioHola\obj\Debug\netcoreapp2.0\StudioHola.AssemblyInfo.cs
+C:\Users\Ed\Documents\lc101\Unit-3\StudioHola\StudioHola\bin\Debug\netcoreapp2.0\StudioHola.pdb
+C:\Users\Ed\Documents\lc101\Unit-3\StudioHola\StudioHola\obj\Debug\netcoreapp2.0\StudioHola.dll
+C:\Users\Ed\Documents\lc101\Unit-3\StudioHola\StudioHola\obj\Debug\netcoreapp2.0\StudioHola.pdb
